@@ -14,11 +14,6 @@ I'm a passionate **Flutter Developer** with **1.5 years of experience** building
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatman-atomik&theme=github_dart" alt="aatman-atomik" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatman-atomik&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatman-atomik&layout=compact&theme=github_dark" height="180"/>
-</p>
-
 <h4 align="left">Mobile App Development Stack</h4>
 
 ###
